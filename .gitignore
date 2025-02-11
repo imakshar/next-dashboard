@@ -1,0 +1,29 @@
+.DS_Store
+node_modules/
+/dist/
+/cache/
+/.intermediate/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/test/unit/coverage/
+/test/e2e/reports/
+/__tests__/output/
+selenium-debug.log
+/coverage
+/.scannerwork
+
+# Editor directories and files
+.idea
+.vscode/*
+!.vscode/uuif.*.code-snippets
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# External projects
+/libs/
+node_modules
+node_modules
